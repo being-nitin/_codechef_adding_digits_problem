@@ -43,3 +43,5 @@ public class Main {
     }
 }
 /* in this we have found the total sum of the digits by adding it to the remainder
+
+ */
